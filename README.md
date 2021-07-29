@@ -1,4 +1,4 @@
-### Olá! Eu sou o Ernesto Terra Dos Santos
+### Olá! Eu sou o Ernesto Santos
 
 - 🔭 No momento ainda não estou atuando na área
 - 🌱 Tenho feito diversos cursos principalmente para atuar de back-end, mas pretendo me tornar full-stack
