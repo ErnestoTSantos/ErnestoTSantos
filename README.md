@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Ernesto Santos
 
-- 🔭 No momento ainda não estou atuando na área
-- 🌱 Tenho feito diversos cursos principalmente para atuar de back-end, mas pretendo me tornar full-stack
+- 🔭 Atualmente procuro por oportunidades na área de desenvolvimento web. Especificamente em Django.
+- 🌱 Tenho focado meus esforços para me tornar um desenvolvedor back-end web no momento. Mas tenho como objetivo futuro me tornar um desenvolvedor full-stack.
 
  <div>
   <a href="https://github.com/ErnestoTSantos">
