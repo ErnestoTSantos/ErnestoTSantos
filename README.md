@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ernesto Santos
 
-- 🔭 Atualmente procuro por oportunidades na área de desenvolvimento web. Especificamente em Django.
+- 🔭 Atualmente procuro por oportunidades na área de desenvolvimento web. Especificamente em frameworks python, pois tenho focado em desenvolver minhas habilidades com a linguagem.
 - 🌱 Tenho focado meus esforços para me tornar um desenvolvedor back-end web no momento. Mas tenho como objetivo futuro me tornar um desenvolvedor full-stack.
 
  <div>
